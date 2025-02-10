@@ -50,7 +50,6 @@ The image below is the dataset after it was properly cleaned and formatted as a 
 ![](Excel_Clean_Data.PNG)
 ---
 _The Cleaned Dataset_
-## Conclusion & Recommendations
 
 # Conclusion:
 The data cleaning process significantly improved the data's quality and usability. The refined dataset would allow for more accurate and reliable analysis.
